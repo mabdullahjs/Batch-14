@@ -1,0 +1,8 @@
+functions ==> Dom manipulation
+Todo App
+loops
+call back & higher order function
+array of object
+Ecommerce App
+sync and async (API)
+
