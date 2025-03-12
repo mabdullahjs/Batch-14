@@ -51,19 +51,24 @@
 // h1.innerHTML = "change through javascript";
 // console.log(h1.innerHTML);
 
-const h1 = document.querySelector("#head");
-let num = 0;
+// const h1 = document.querySelector("#head");
+// let num = 0;
 
-function hello() {
-  //   num += 1;
-  //   h1.innerHTML = "change through js " + num;
+// function hello() {
+//   //   num += 1;
+//   //   h1.innerHTML = "change through js " + num;
 
-  if (h1.innerHTML === "hello functions") {
-    h1.innerHTML = "changed through js";
-  } else {
-    h1.innerHTML = "hello functions";
-  }
+//   if (h1.innerHTML === "hello functions") {
+//     h1.innerHTML = "changed through js";
+//   } else {
+//     h1.innerHTML = "hello functions";
+//   }
+// }
+
+let fruits = ["apple", "banana", "orange", "grape", "mango"];
+console.log(fruits);
+
+const div = document.querySelector("#container");
+for (let i = 0; i < fruits.length; i++) {
+  div.innerHTML += `<p>${fruits[i]}</p>`;
 }
-
-
-
