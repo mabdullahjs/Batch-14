@@ -1,8 +1,8 @@
 functions ==> Dom manipulation
 Todo App
 loops
-call back & higher order function
-array of object
+call back & higher order function (map , filter , reduce)
+array of object (filtered products)
 Ecommerce App
 sync and async (API)
 
