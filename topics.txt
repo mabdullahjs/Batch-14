@@ -4,5 +4,10 @@ loops
 call back & higher order function (map , filter , reduce)
 array of object (filtered products)
 Ecommerce App
-sync and async (API)
+sync and async
+promises
+async await
+API fetch
+Project
+
 
